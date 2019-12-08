@@ -4,7 +4,7 @@
 
 ## Description
 
-Application web to make easier your stay in a city. You will be able to find the most tyipical events, restaurants, museums and hotels in a city.
+Application web to make easier your stay in a city. You will be able to find the most typical events, restaurants, museums and hotels in a city.
 
 <br>
 
