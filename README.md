@@ -10,8 +10,6 @@ Application web to make easier your stay in a city. You will be able to find the
 
 ## User Stories
 
-- **404** - As a user I want to see a nice 404 page when I go to a page that doesn’t exist so that I know it was my fault
-- **500** - As a user I want to see a nice error page when the super team screws it up so that I know that is not my fault
 - **Homepage** - As a user I want to be able to access the homepage and filter by type of restaurant, log in and sign up.
 - **Sign up** - As a user I want to sign up on the web page so that I can add favorite restaurants to my list.
 - **Login** - As a user I want to be able to log in on the web page so that I can get back to my account
@@ -185,12 +183,12 @@ Trello
 
 The url to your repository and to your deployed project
 
-[Repository Link](https://github.com/Rbllado/CityEasier)
+[Repository Link](https://github.com/Kurroni/CityEasier)
 
-[Deploy Link]()
+[Deploy Link](https://city-easier.herokuapp.com/)
 
 <br>
 
 ### Slides
 
-The url to your presentation slides
+https://docs.google.com/presentation/d/1Id56_dLrF5JDsuD8uJkjbTCLx03RMy1xduhE3TVdTic/edit?usp=sharing
