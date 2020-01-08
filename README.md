@@ -4,7 +4,9 @@
 
 ## Description
 
-Application web to make easier your stay in a city. You will be able to find the most typical events, restaurants, museums and hotels in a city.
+Application web to make easier your stay in a visited city. You will be able to find the most typical events, restaurants, museums and hotels in that city.
+Full-stack application.
+HTML, ES6, Express, MongoDB, Handlebars, Node.js, HTTP, CRUD, Auth.
 
 <br>
 
